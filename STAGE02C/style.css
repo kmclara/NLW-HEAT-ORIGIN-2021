@@ -34,6 +34,10 @@ main {
     color: var(--gray);
 }
 
+.avatar{
+    width: 10rem;
+}
+
 h1 {
     font-size: 1.5rem;
 
