@@ -49,6 +49,7 @@ main {
 .avatar > img {
     width: 10rem;
     height: 11.5rem;
+    object-fit: cover;
 }
 
 h1 {
