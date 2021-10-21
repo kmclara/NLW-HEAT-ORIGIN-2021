@@ -39,6 +39,10 @@ main {
     margin: 11.5rem auto 0;
 }
 
+.avatar span{
+    position: absolute;
+}
+
 h1 {
     font-size: 1.5rem;
 
