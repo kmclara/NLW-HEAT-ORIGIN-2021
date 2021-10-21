@@ -46,7 +46,10 @@ main {
     top: -15px;
 }
 
-.avatar 
+.avatar > img {
+    width: 10rem;
+    height: 11.5rem;
+}
 
 h1 {
     font-size: 1.5rem;
